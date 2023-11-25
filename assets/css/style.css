@@ -326,11 +326,11 @@ h6 {
 #home p {
   color: #45505b;
   margin: 15px 0 0 0;
-  font-size: 26px;
+  font-size: 40px;
   font-family: "Poppins", sans-serif;
 }
 
-#home p span {
+#home p span:first-child {
   color: #45505b;
   letter-spacing: 1px;
 }
